@@ -1,16 +1,4 @@
 # spam-domains-list
 A list of spam/temporary/DAE email domains.
 
-The lsit contains **51648 domains**. 
-
-The data is a combination from four lists - 
-
-Non valid - 
-* [Stop Forum Spam](http://www.stopforumspam.com)
-* [mailchecker](https://github.com/FGRibreau/mailchecker)
-* [gambas guru](https://gambas.guru/Email_Blacklist)
-
-Valid - 
-* [this list](https://gist.github.com/tbrianjones/5992856).
-
-Feel free to add/remove domains by openning an issue.
+Feel free to add/remove domains by opening a pull request or an issue. Please explain how you know the affected domains are (not) spam domains.
